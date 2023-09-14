@@ -1,5 +1,5 @@
 .home:hover{
-  background-image:url("image.jpg");
+  background-image:url("/image.jpg");
   background-position:bottom;
   padding-bottom: 5px;
   background-repeat: repeat-x;
