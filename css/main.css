@@ -1,12 +1,11 @@
 .home:hover{
-  background-image:url("https://github.com/icechris/Quiktrack.io/blob/main/image.jpg");
+  background-image:url("image.jpg");
   background-position:bottom;
   padding-bottom: 5px;
   background-repeat: repeat-x;
  
   
 }
-
 
 
 

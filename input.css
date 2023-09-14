@@ -67,14 +67,14 @@
   letter-spacing: -1.152px;}
   
   
-  .home:hover{
-    background-image:url("/image.jpg");
+.home:hover{
+    background-image:url("image.jpg");
     background-position:bottom;
     padding-bottom: 5px;
     background-repeat: repeat-x;
    
     
-  }
+}
 
   .icon{
     padding-left: 30px;
