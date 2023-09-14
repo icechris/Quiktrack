@@ -70,7 +70,6 @@
   .home:hover{
     background-image:url("/img/homeImage.jpg");
     background-position:bottom;
-    /* background-size: 10px 9px; */
     padding-bottom: 5px;
     background-repeat: repeat-x;
     
@@ -83,7 +82,7 @@
    
   }
   #placeholder-text::placeholder{ 
-    padding-left:10px;
+    padding-left:11px;
   }
   /* overlay for menu bar */
   
