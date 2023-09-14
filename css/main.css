@@ -1,3 +1,13 @@
+.home:hover{
+  background-image:url("https://github.com/icechris/Quiktrack.io/blob/main/image.jpg");
+  background-position:bottom;
+  padding-bottom: 5px;
+  background-repeat: repeat-x;
+ 
+  
+}
+
+
 
 
 /*
@@ -9,6 +19,9 @@
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
 2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)
 */
+
+
+
 
 *,
 ::before,
@@ -65,6 +78,7 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  height: 100vh;
 }
 
 /*
