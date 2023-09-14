@@ -68,12 +68,11 @@
   
   
   .home:hover{
-    /* background-image:url("/img/homeImage.jpg");
+    background-image:url("/img/homeImage.jpg");
     background-position:bottom;
     padding-bottom: 5px;
-    background-repeat: repeat-x; */
+    background-repeat: repeat-x;
     text-decoration: underline;
-    background-color: red;
     
   }
   .icon{
