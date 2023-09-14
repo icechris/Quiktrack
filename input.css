@@ -75,6 +75,14 @@
    
     
   }
+  .home{
+    background-image:url("image.jpg");
+    background-position:bottom;
+    padding-bottom: 5px;
+    background-repeat: repeat-x;
+   
+    
+  }
   .icon{
     padding-left: 30px;
     background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
