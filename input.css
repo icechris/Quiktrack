@@ -1,5 +1,7 @@
 /* Custom Css For Qiktrack */
-
+*{
+  font-family: Archivo;
+}
 .container {
     width: 100%;
     margin-right: auto;
@@ -109,4 +111,31 @@
   }
   
   /* End of custom css */
-  
+
+  @media only screen and (max-width: 768px) {
+    main{
+      padding:0.5rem;
+    }
+    .icon{
+      padding-left: 2rem;
+    }
+    .footer-btn{
+      margin:0.8rem;
+    }
+    .footer-links{
+      margin: 0.8rem;
+    }
+   .footer-icon{
+    padding-left: 5rem;
+   } 
+   .icon{
+    padding:0.3rem;
+    
+   }
+    #placeholder-text::placeholder{ 
+    padding-left:31px;
+  }
+  .mobile-links{
+    height:80%;
+  }
+  }

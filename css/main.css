@@ -1,9 +1,8 @@
 .home:hover{
-  background-image:url("/image.jpg");
+  background-image:url("/img/image.jpg");
   background-position:bottom;
   padding-bottom: 5px;
   background-repeat: repeat-x;
-  background-color: aqua;
  
   
 }
