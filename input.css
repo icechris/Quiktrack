@@ -116,9 +116,7 @@
     main{
       padding:0.5rem;
     }
-    .icon{
-      padding-left: 2rem;
-    }
+    
     .footer-btn{
       margin:0.8rem;
     }
@@ -128,14 +126,27 @@
    .footer-icon{
     padding-left: 5rem;
    } 
-   .icon{
-    padding:0.3rem;
+    #home-button{
+    
+   display: none;
     
    }
     #placeholder-text::placeholder{ 
-    padding-left:31px;
+    padding:31px;
   }
   .mobile-links{
     height:80%;
   }
+  .input-button{
+    flex-direction: column;
+    display: flex;
   }
+  #home-button{
+    
+    display: none;
+      
+     }
+ 
+  }
+ 
+ 
